@@ -1,4 +1,3 @@
--- Active: 1669529680133@@localhost@3306@superstore_casestudy
 -- FIND THE MAXIMUM Quantity SOLD IN A TRANSACTION
 SELECT
  MAX(Quantity)
